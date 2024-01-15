@@ -1,0 +1,7 @@
+streamlit
+pandas
+sketch
+langchain
+clarifai
+python-dotenv
+openai
