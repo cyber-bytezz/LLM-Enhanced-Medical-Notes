@@ -6,7 +6,7 @@ Welcome to the forefront of medical document enhancement – introducing the LLM
 
 ## 🎥 Project Showcase Video
 
-[![Project Showcase](https://github.com/cyber-bytezz/LLM-Enhanced-Medical-Notes/assets/130319315/e068ea30-5423-4942-8089-8a0a59e770f1.png)](https://youtu.be/iLjtBC4dtcg)
+[![Project Showcase](https://github.com/cyber-bytezz/LLM-Enhanced-Medical-Notes/assets/130319315/7ad64af2-481a-426b-aa89-32f99fab141f)](https://youtu.be/iLjtBC4dtcg)
 
 Dive into our world by clicking the image above! Witness the magic unfold – seamless integration, intelligent question-answering, and a transformative impact on medical data analysis. Don't miss out on the showcase of elegance and efficiency in action.
 
