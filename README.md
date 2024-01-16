@@ -2,7 +2,7 @@
 
 ## 🌟 Elevate Your Medical Data Analysis Experience 🚀
 
-Welcome to the forefront of medical document enhancement – introducing the LLM Enhanced Medical Notes hackathon project! Fueled by the unparalleled capabilities of OpenAI's GPT-3.5 Turbo, this isn't just a tool; it's a seismic shift in medical data analysis. Tailored for the [Hackathon Name], our project promises to deliver unparalleled insights and intelligence to your medical notes, laying the groundwork for an extraordinary journey.
+Welcome to the forefront of medical document enhancement – introducing the LLM Enhanced Medical Notes hackathon project! Fueled by the unparalleled capabilities of OpenAI's GPT-3.5 Turbo, this isn't just a tool; it's a seismic shift in medical data analysis. Tailored for the Health Hackthon, our project promises to deliver unparalleled insights and intelligence to your medical notes, laying the groundwork for an extraordinary journey.
 
 ## 🎥 Project Showcase Video
 
